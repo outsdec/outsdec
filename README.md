@@ -10,5 +10,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=outsdec&theme=dark&locale=ru&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outsdec&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outsdec&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 

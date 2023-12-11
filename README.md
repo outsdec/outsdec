@@ -7,9 +7,7 @@
 </div>
 
 ### 🔥 Статистика профиля :
-<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=outsdec&theme=dark&hide_border=true&locale=ru&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</div>
-<div>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outsdec)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
